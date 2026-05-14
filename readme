@@ -1,0 +1,8 @@
+First You should make console application project
+Then, add Console.cpp and Console.h to your newly created project;
+and the last thing you should do - add #include"console.h" to your file
+
+consile.cpp contains examples on using this color stuff
+
+Best regards,
+	Anton.
